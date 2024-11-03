@@ -1,0 +1,1 @@
+# azure-postgres-flex-inventory
