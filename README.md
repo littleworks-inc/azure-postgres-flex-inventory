@@ -99,22 +99,6 @@ Subscription,Resource Group,Server Name,PostgreSQL Version,SKU Name,SKU Tier,Sto
 - Storage metrics might have slight delays based on Azure metrics availability
 - Script execution time depends on the number of subscriptions and servers
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Authors
-
-Your Name (@your-github-username)
-
 ## Acknowledgments
 
 - Azure CLI documentation
